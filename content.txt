@@ -1,0 +1,5 @@
+Hi Team,
+
+We have some Blackduck and Sysdig scan issues  when we tried to resolve the Blackduck and Sysdig scan issues, but unable resolve the issues due to false positive and spring framework version update, If the spring boot version is upgraded which is affecting the BOD application launch. Also not updating in Blackduck scan reports it is still showing as a issue. Actually we are only consuming the BOD Spring Boot application.
+
+As discussed with Imam, MohammedZafar and Maddipati, Raghavendran’s forum we have created JIRA for Black Duck Issues (CAPERAS-13554). We are very near to GA so Kindly guide us to resolve the issues ASAP.
